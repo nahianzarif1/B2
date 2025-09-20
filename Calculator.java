@@ -4,7 +4,7 @@ public class Calculator {
         // Changed in main
         return a + b + 1; // intentionally different
     }
-    
+
 
     public int subtract(int a, int b) {
         return a - b;
